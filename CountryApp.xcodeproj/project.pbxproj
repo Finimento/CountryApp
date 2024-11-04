@@ -13,6 +13,7 @@
 		B5CC4BC82CD297F900175FDB /* Base in Resources */ = {isa = PBXBuildFile; fileRef = B5CC4BC72CD297F900175FDB /* Base */; };
 		B5CC4BCA2CD297FA00175FDB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5CC4BC92CD297FA00175FDB /* Assets.xcassets */; };
 		B5CC4BCD2CD297FA00175FDB /* Base in Resources */ = {isa = PBXBuildFile; fileRef = B5CC4BCC2CD297FA00175FDB /* Base */; };
+		B5CC4BD52CD298D000175FDB /* CountryTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5CC4BD42CD298D000175FDB /* CountryTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B5CC4BC92CD297FA00175FDB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B5CC4BCC2CD297FA00175FDB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B5CC4BCE2CD297FA00175FDB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B5CC4BD42CD298D000175FDB /* CountryTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				B5CC4BC02CD297F900175FDB /* AppDelegate.swift */,
 				B5CC4BC22CD297F900175FDB /* SceneDelegate.swift */,
 				B5CC4BC42CD297F900175FDB /* ViewController.swift */,
+				B5CC4BD42CD298D000175FDB /* CountryTableViewCell.swift */,
 				B5CC4BC62CD297F900175FDB /* Main.storyboard */,
 				B5CC4BC92CD297FA00175FDB /* Assets.xcassets */,
 				B5CC4BCB2CD297FA00175FDB /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5CC4BD52CD298D000175FDB /* CountryTableViewCell.swift in Sources */,
 				B5CC4BC52CD297F900175FDB /* ViewController.swift in Sources */,
 				B5CC4BC12CD297F900175FDB /* AppDelegate.swift in Sources */,
 				B5CC4BC32CD297F900175FDB /* SceneDelegate.swift in Sources */,
